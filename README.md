@@ -5,6 +5,7 @@
 <p>Vivo em constante aprendizado, e a tecnologia que escolhi para aprender atualmente é ReactJS.</p>
 <p>Possuo conhecimento em HTML5 semântico, CSS3, Bootstrap, Javascript/Vanilla, Jquery, PHP, Mysql e Design responsivo.</p>
 
+<h1>Know me</h1>
 <h2>In english:</h2>
 <p>Hello, name is Thiago, I'm a front end developer.</p>
 <p>I currently live in Brazil, but I am looking for new horizons.</p>
